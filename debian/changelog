@@ -1,0 +1,48 @@
+node-read (1.0.7-2) unstable; urgency=medium
+
+  * Team upload
+
+  [ Debian Janitor ]
+  * Use secure copyright file specification URI.
+  * Bump debhelper from old 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Change priority extra to priority optional.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+
+  [ Xavier Guimard ]
+  * Declare compliance with policy 4.5.0
+  * Add "Rules-Requires-Root: no"
+  * Change section to javascript
+  * Add debian/gbp.conf
+  * Use pkg-js-tools auto install
+  * Fix copyright license
+
+ -- Xavier Guimard <yadd@debian.org>  Thu, 19 Mar 2020 21:43:11 +0100
+
+node-read (1.0.7-1) unstable; urgency=medium
+
+  * Team upload.
+  * Imported Upstream version 1.0.7
+  * Standards-Version: 3.9.8
+  * Debian compat level 9
+  * Update Vcs-* fields.
+  * Refresh the copyright and update the upstream license.
+
+ -- Paolo Greppi <paolo.greppi@libpf.com>  Fri, 23 Dec 2016 13:39:34 +0100
+
+node-read (1.0.5-1) unstable; urgency=medium
+
+  * Imported Upstream version 1.0.5
+  * Standards-Version: 3.9.5
+  * Move to pkg-javascript
+
+ -- Jérémy Lal <kapouer@melix.org>  Tue, 29 Jul 2014 02:25:59 +0200
+
+node-read (1.0.4-1) unstable; urgency=low
+
+  * Initial release (Closes: #704103)
+
+ -- Jérémy Lal <kapouer@melix.org>  Wed, 27 Mar 2013 23:38:33 +0100
